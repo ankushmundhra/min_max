@@ -1,2 +1,2 @@
-# christlogin
-Automated Internet Login System for Christ University Students
+# min_max
+A script that calculates min_max values for each records in dataset
