@@ -7,9 +7,9 @@ setup(
   description = 'Calculate min-max values for each records in your dataset.',   # Give a short description about your library
   author = 'Ankush Mundhra',                   # Type in your name
   author_email = 'ankushmundhra007@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/ankushmundhra/christlogin.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/ankushmundhra/christlogin/archive/v_01.tar.gz',    # I explain this later on
-  keywords = ['christuniversity', 'login', 'internet'],   # Keywords that define your package best
+  url = 'https://github.com/ankushmundhra/min_max.git',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/ankushmundhra/min_max/archive/v0.1.tar.gz',    # I explain this later on
+  keywords = ['min-max', 'normalization', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
           'numpy',
